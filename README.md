@@ -2,7 +2,7 @@
 
 
 
-#ASCII Architecture Diagram
+# ASCII Architecture Diagram
 
                          ┌─────────────────────────┐
                          │        User Input        │
@@ -39,7 +39,7 @@
 
 
 
-##Mermaid Diagram
+## Mermaid Diagram
 
 
 flowchart TD
@@ -64,7 +64,7 @@ flowchart TD
     H --> V[Qdrant Local DB]
 
 
-##Architecture Explanation
+## Architecture Explanation
 
 1. User Input
 
