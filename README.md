@@ -114,3 +114,29 @@ LLM returns final answer
 
 Returned to Streamlit cleanly as the chat response.
 
+
+
+# Screenshots
+
+
+<img width="1916" height="966" alt="image" src="https://github.com/user-attachments/assets/d201e4ca-49d5-4cf0-9552-fdc2290358e4" />
+
+
+
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/f10ccbcc-fcdb-4cc6-9385-c1158db26f4e" />
+
+
+
+
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/15d22c9c-2606-4c4c-adf6-ff4787be946a" />
+
+
+
+<img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/c4c3fee1-1904-43b9-a312-f8c49dbd0f5f" />
+
+# Test Cases
+
+<img width="1919" height="402" alt="image" src="https://github.com/user-attachments/assets/46772c4f-955e-4dbc-9041-afdb087ae608" />
+
+
+
