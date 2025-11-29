@@ -2,7 +2,7 @@
 
 
 
-##ASCII Architecture Diagram
+#ASCII Architecture Diagram
 
                          ┌─────────────────────────┐
                          │        User Input        │
